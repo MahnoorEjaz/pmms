@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974221166564",
+    "project_id": "pmmsproj",
+    "storage_bucket": "pmmsproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974221166564:android:e3818159939d0b2259a9f1",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-BEjtTd8uBt6ZLYcN1FTNXLjGwMcXk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
